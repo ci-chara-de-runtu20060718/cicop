@@ -16,7 +16,7 @@ public class UserLogin extends Application {
 
     @Override
     public void start(Stage stage) throws Exception {
-//        Button btn = new Button("登录");????
+//        Button btn = new Button("登录");???
 //        //创建一个按钮
 ////        btn.setOnAction(new EventHandler<ActionEvent>() {
 ////            @Override
